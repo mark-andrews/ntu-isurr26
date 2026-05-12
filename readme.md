@@ -24,6 +24,10 @@ The course will take 6 contact hours per day plus two 2-hour breaks. The session
 
 Mark Andrews is an Associate Professor at Nottingham Trent University whose research and teaching is focused on statistical methodology in research in the social and biological sciences. He is the author of 2021 textbook on data science using R that is aimed at scientific researchers, and has a forthcoming new textbook on statistics and data science that is aimed at undergraduates in science courses. His background is in computational cognitive science and mathematical psychology.
 
+## Guides
+
+Workshop guides and slides are available [here](https://courses.mjandrews.org/introducing-r).
+
 ## Software requirements
 
 Instructions on how to install the required software can be found [here](software.md).
